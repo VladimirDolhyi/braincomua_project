@@ -1,0 +1,15 @@
+# Environments & IDE
+venv/
+.venv/
+env/
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets & local DB
+.env
+db.sqlite3
